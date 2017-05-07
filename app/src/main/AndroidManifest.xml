@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.chibire.terence.cakehut">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".intro.SplashActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN01" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".intro.LoginActivity"
+            android:label="@string/login">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN02" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".intro.SignupActivity"
+            android:label="@string/signup">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN03" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".intro.OptionsActivity"
+            android:label="@string/welcome">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN05" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".AboutActivity"
+            android:parentActivityName=".MainActivity"
+            android:label="@string/page_5">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN06" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.chibire.terence.cakehut.MainActivity" />
+        </activity>
+        <activity android:name=".SettingsActivity"
+            android:parentActivityName=".MainActivity"
+            android:label="@string/page_7">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN07" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.chibire.terence.cakehut.MainActivity" />
+        </activity>
+    </application>
+
+</manifest>

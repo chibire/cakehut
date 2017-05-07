@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">CakeHut</string>
+
+    <string name="app_version">1.0</string>
+    <string name="app_year">2017</string>
+    <string name="app_copyright">CakeHut</string>
+    <string name="app_email">info@cakehut.co.ke</string>
+    <string name="app_site">http://cakehut.co.ke/</string>
+
+    <string name="page_1">Home</string>
+    <string name="page_2">Our Products</string>
+    <string name="page_3">Orders</string>
+    <string name="page_4">Feedback</string>
+    <string name="page_5">About Us</string>
+    <string name="page_6">Logout</string>
+    <string name="page_7">Settings</string>
+
+    <string-array name="navDrawerItems">
+        <item>Home</item>
+        <item>Our Products</item>
+        <item>Orders</item>
+        <item>Feedback</item>
+        <item>About Us</item>
+        <item>Logout</item>
+        <item>Settings</item>
+    </string-array>
+
+    <string-array name="navDrawerIcons">
+        <item>@drawable/ic_home_grey_500_24dp</item>
+        <item>@drawable/ic_shopping_cart_grey_500_24dp</item>
+        <item>@drawable/ic_format_list_numbered_grey_500_24dp</item>
+        <item>@drawable/ic_feedback_grey_500_24dp</item>
+        <item>@drawable/ic_info_outline_grey_500_24dp</item>
+        <item>@drawable/ic_settings_grey_500_24dp</item>
+        <item>@drawable/ic_arrow_back_grey_500_24dp</item>
+    </string-array>
+
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="slogan">Come experience Cake Hut today!</string>
+    <string name="login">Login</string>
+    <string name="pass">Password</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="order">Item to order</string>
+    <string name="address">Address</string>
+    <string name="cpass">Confirm Password</string>
+    <string name="signup">Sign Up</string>
+    <string name="copy_right">Copyrights © %1$d</string>
+    <string name="msg_loading">Please wait&#8230;</string>
+
+    <string name="settings_allow_messages">Receive messages from anyone</string>
+    <string name="settings_allow_messages_summary">You will be able to receive messages from any user, even if the user is not in the list of your friends.</string>
+
+    <string name="settings_header_general">General</string>
+    <string name="settings_header_others">Others</string>
+    <string name="settings_header_about">About</string>
+    <string name="settings_header_notifications">Notification</string>
+
+    <string name="settings_notifications_friends">Friend Requests</string>
+    <string name="settings_notifications_messages">Private messages</string>
+
+    <string name="settings_version">Version</string>
+    <string name="settings_logout">Log out</string>
+    <string name="settings_copyright_info">Copyright info</string>
+    <string name="settings_contact_us">Contact us</string>
+    <string name="settings_contact_us_summary">Report a problem</string>
+    <string name="settings_web_site">Our website</string>
+    <string name="settings_view_blocked_list">View blocked list</string>
+    <string name="settings_deactivate_account">Deactivate account</string>
+    <string name="settings_thanks">Acknowledgements</string>
+    <string name="settings_terms">Terms of use</string>
+    <string name="settings_change_password">Change password</string>
+    <string name="settings_services">Services</string>
+    <string name="settings_notifications">Push notifications</string>
+    <string name="settings_services_summary">Connect with social network accounts</string>
+    <string name="settings_account_deactivation">If you proceed deactivate your account, you can never go back. If you want to come back - you\'ll have to create a new account.</string>
+    <string name="welcome">Welcome to Cakehut</string>
+    <string name="content">Message</string>
+    <string name="subject">Subject</string>
+    <string name="feedback">Submit</string>
+    <string name="number">Number</string>
+    <string name="dod">Date of delivery</string>
+    <string name="additional">Additional information</string>
+    <string name="send">Send</string>
+    <string name="address_number">Address or Phone</string>
+
+</resources>

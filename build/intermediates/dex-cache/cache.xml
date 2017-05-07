@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/root/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/root/AndroidStudioProjects/CakeHut/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_76f81077aea9bd1699aabfb9818dc8fa3bde44df/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/c51ae00a5f868891cf41f990f70ac9325f152f85/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/root/AndroidStudioProjects/CakeHut/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6d3f0f4c45b1416280ce5b43dd1c88b500cbd731/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/c51ae00a5f868891cf41f990f70ac9325f152f85/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/root/AndroidStudioProjects/CakeHut/app/build/intermediates/pre-dexed/release/classes_6d3f0f4c45b1416280ce5b43dd1c88b500cbd731.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/37e1abc3d4349d0278da2f394ac13ba8bb718b09/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/root/AndroidStudioProjects/CakeHut/app/build/intermediates/pre-dexed/release/classes_464a13ed8a7f51586a142d18df14fcaf1205bd47.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/955ba62c2c6dca95a4624bd35d3ac8be169013a5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/root/AndroidStudioProjects/CakeHut/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c04aee8420b38999cb8c0a947b34ca788907b78c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/root/AndroidStudioProjects/CakeHut/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_71603e9186bae46f98999e0a31ed8167b724c574/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/01e6c197f15ad669389fb4964c6909daa0180e7c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/root/AndroidStudioProjects/CakeHut/app/build/intermediates/pre-dexed/release/classes_fc0d630bee8037c642a5c6cada9720c0b4703423.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/955ba62c2c6dca95a4624bd35d3ac8be169013a5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/root/AndroidStudioProjects/CakeHut/app/build/intermediates/pre-dexed/release/classes_c04aee8420b38999cb8c0a947b34ca788907b78c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/37e1abc3d4349d0278da2f394ac13ba8bb718b09/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/root/AndroidStudioProjects/CakeHut/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_464a13ed8a7f51586a142d18df14fcaf1205bd47/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/01e6c197f15ad669389fb4964c6909daa0180e7c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/root/AndroidStudioProjects/CakeHut/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fc0d630bee8037c642a5c6cada9720c0b4703423/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/cc575fc08ecb935934b456cdf5331faa8d43a700/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/root/AndroidStudioProjects/CakeHut/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9ab43eb50ef6cf56b14f551dc091397b419a1da9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/2d33bf7e6039eb5d5b10b78ba1cf50c276d58c10/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="379a48c2da13ffb7ec7134f2c715663834357670">
+        <dex dex="/root/AndroidStudioProjects/CakeHut/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_be42d33a7c3fc698a7ad40182a911320760153de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/AndroidStudioProjects/CakeHut/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/root/AndroidStudioProjects/CakeHut/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_0bdedf404a47715020f8683b54d04ec98633a941/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/34e4861bfd2b6f30bac3b6250b42a9b23232d215/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/root/AndroidStudioProjects/CakeHut/app/build/intermediates/pre-dexed/release/classes_049262b45a17fda79c2dd53074e3b849de552b02.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/82146601829d4f79ed9b8e522917c93ef2182e9d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/root/AndroidStudioProjects/CakeHut/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1dbfab6b0e042551669757024a118f168f47f70d/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/cc575fc08ecb935934b456cdf5331faa8d43a700/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/root/AndroidStudioProjects/CakeHut/app/build/intermediates/pre-dexed/release/classes_9ab43eb50ef6cf56b14f551dc091397b419a1da9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/2d33bf7e6039eb5d5b10b78ba1cf50c276d58c10/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="379a48c2da13ffb7ec7134f2c715663834357670">
+        <dex dex="/root/AndroidStudioProjects/CakeHut/app/build/intermediates/pre-dexed/release/classes_be42d33a7c3fc698a7ad40182a911320760153de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/82146601829d4f79ed9b8e522917c93ef2182e9d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/root/AndroidStudioProjects/CakeHut/app/build/intermediates/pre-dexed/release/classes_1dbfab6b0e042551669757024a118f168f47f70d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/e19878baec13c8e085274b83769c3fd9fa41526d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/root/AndroidStudioProjects/CakeHut/app/build/intermediates/pre-dexed/release/classes_1c30d8a385336c9c02fdbdc02327a7491836196f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/34e4861bfd2b6f30bac3b6250b42a9b23232d215/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/root/AndroidStudioProjects/CakeHut/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_049262b45a17fda79c2dd53074e3b849de552b02/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/5a2e78d7051a461fd0022ef70e27376db62af9aa/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/root/AndroidStudioProjects/CakeHut/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_40e4233ee187f2d28b438b4aaad358ab071a7190/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/75a3250495ae4ebe60a2f5511fb84777c46b7989/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64ab2d705ed9257fb2f221314c33eed9ed1dce9e">
+        <dex dex="/root/AndroidStudioProjects/CakeHut/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_56f2c9c22d971b4d7e055cf30bef20bbb4aadb24/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/0098ee1bd7b52ee3b6ce951accf2b8d6b3657bf2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/root/AndroidStudioProjects/CakeHut/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0c438e399bab665a1877a8cfc659950b67a6e1af/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/aae7ac4198d727278ef594ec5101292c98f7e4d4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/root/AndroidStudioProjects/CakeHut/app/build/intermediates/pre-dexed/release/classes_027e7fa7fdf7a21a4aa59864fbdd636edafc3c45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/0098ee1bd7b52ee3b6ce951accf2b8d6b3657bf2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/root/AndroidStudioProjects/CakeHut/app/build/intermediates/pre-dexed/release/classes_0c438e399bab665a1877a8cfc659950b67a6e1af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/75a3250495ae4ebe60a2f5511fb84777c46b7989/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64ab2d705ed9257fb2f221314c33eed9ed1dce9e">
+        <dex dex="/root/AndroidStudioProjects/CakeHut/app/build/intermediates/pre-dexed/release/classes_56f2c9c22d971b4d7e055cf30bef20bbb4aadb24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/5a2e78d7051a461fd0022ef70e27376db62af9aa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/root/AndroidStudioProjects/CakeHut/app/build/intermediates/pre-dexed/release/classes_40e4233ee187f2d28b438b4aaad358ab071a7190.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.0/7ff0e000d1e27e356567f56c92af3b8ab912636f/picasso-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7ff0e000d1e27e356567f56c92af3b8ab912636f">
+        <dex dex="/root/AndroidStudioProjects/CakeHut/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.0_77a2819a1657de244ec235498d191d09c8e39919/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/b92a65de2b530e749114929096fd1a4360f83b07/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/root/AndroidStudioProjects/CakeHut/app/build/intermediates/pre-dexed/release/classes_d91cf9420c38d303f07d1c219a87c939a0c7707e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.0/7ff0e000d1e27e356567f56c92af3b8ab912636f/picasso-2.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7ff0e000d1e27e356567f56c92af3b8ab912636f">
+        <dex dex="/root/AndroidStudioProjects/CakeHut/app/build/intermediates/pre-dexed/release/picasso-2.5.0_77a2819a1657de244ec235498d191d09c8e39919.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/aae7ac4198d727278ef594ec5101292c98f7e4d4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/root/AndroidStudioProjects/CakeHut/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_027e7fa7fdf7a21a4aa59864fbdd636edafc3c45/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/6bc09fb32b474ad49fe9fca307e5c7a7eac90ee8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/root/AndroidStudioProjects/CakeHut/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d10826a7926f427cad949f3d8f57da305f844939/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/b92a65de2b530e749114929096fd1a4360f83b07/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/root/AndroidStudioProjects/CakeHut/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d91cf9420c38d303f07d1c219a87c939a0c7707e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.volley/library/1.0.18/38da306aafee11459cd935a01d2c92a98dc670a4/library-1.0.18.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38da306aafee11459cd935a01d2c92a98dc670a4">
+        <dex dex="/root/AndroidStudioProjects/CakeHut/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-1.0.18_5760e815d9bb5a69207ccc36abc117551aa4e5e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/e19878baec13c8e085274b83769c3fd9fa41526d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/root/AndroidStudioProjects/CakeHut/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1c30d8a385336c9c02fdbdc02327a7491836196f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/6bc09fb32b474ad49fe9fca307e5c7a7eac90ee8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/root/AndroidStudioProjects/CakeHut/app/build/intermediates/pre-dexed/release/classes_d10826a7926f427cad949f3d8f57da305f844939.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.volley/library/1.0.18/38da306aafee11459cd935a01d2c92a98dc670a4/library-1.0.18.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38da306aafee11459cd935a01d2c92a98dc670a4">
+        <dex dex="/root/AndroidStudioProjects/CakeHut/app/build/intermediates/pre-dexed/release/library-1.0.18_5760e815d9bb5a69207ccc36abc117551aa4e5e1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/AndroidStudioProjects/CakeHut/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="07a08d28dab1fee0762aeb853396da9e36472506">
+        <dex dex="/root/AndroidStudioProjects/CakeHut/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_69015d89ca51c76a08406d12a97d14caedcc4095/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/root/AndroidStudioProjects/CakeHut/app/build/intermediates/pre-dexed/release/support-annotations-25.3.1_71603e9186bae46f98999e0a31ed8167b724c574.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/root/AndroidStudioProjects/CakeHut/app/build/intermediates/pre-dexed/release/constraint-layout-solver-1.0.2_76f81077aea9bd1699aabfb9818dc8fa3bde44df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/f058516c8ffa9684790ea5c682218cb6cccb7d3c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/root/AndroidStudioProjects/CakeHut/app/build/intermediates/pre-dexed/release/classes_4ad08e1cff40b7357fa983a43e0b7ac7139b244c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/dbd3ee1194a003e7b17bc47bb3aa90211142fa08/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c341a7ad32bc2eef9dcfab239262b77ac60788cc">
+        <dex dex="/root/AndroidStudioProjects/CakeHut/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9fd32155ed2b00ee12a135aff53fb3b9e9ca903a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/f058516c8ffa9684790ea5c682218cb6cccb7d3c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/root/AndroidStudioProjects/CakeHut/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4ad08e1cff40b7357fa983a43e0b7ac7139b244c/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/dbd3ee1194a003e7b17bc47bb3aa90211142fa08/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c341a7ad32bc2eef9dcfab239262b77ac60788cc">
+        <dex dex="/root/AndroidStudioProjects/CakeHut/app/build/intermediates/pre-dexed/release/classes_9fd32155ed2b00ee12a135aff53fb3b9e9ca903a.jar" />
+    </item>
+
+</items>
